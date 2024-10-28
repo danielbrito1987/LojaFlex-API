@@ -1,0 +1,12 @@
+C:\Projetos\LojaFlex\LojaFlex-API\LojaFlex.Api\LojaFlex.Domain\bin\Debug\net6.0\LojaFlex.Domain.deps.json
+C:\Projetos\LojaFlex\LojaFlex-API\LojaFlex.Api\LojaFlex.Domain\bin\Debug\net6.0\LojaFlex.Domain.dll
+C:\Projetos\LojaFlex\LojaFlex-API\LojaFlex.Api\LojaFlex.Domain\bin\Debug\net6.0\LojaFlex.Domain.pdb
+C:\Projetos\LojaFlex\LojaFlex-API\LojaFlex.Api\LojaFlex.Domain\obj\Debug\net6.0\LojaFlex.Domain.csproj.AssemblyReference.cache
+C:\Projetos\LojaFlex\LojaFlex-API\LojaFlex.Api\LojaFlex.Domain\obj\Debug\net6.0\LojaFlex.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\LojaFlex\LojaFlex-API\LojaFlex.Api\LojaFlex.Domain\obj\Debug\net6.0\LojaFlex.Domain.AssemblyInfoInputs.cache
+C:\Projetos\LojaFlex\LojaFlex-API\LojaFlex.Api\LojaFlex.Domain\obj\Debug\net6.0\LojaFlex.Domain.AssemblyInfo.cs
+C:\Projetos\LojaFlex\LojaFlex-API\LojaFlex.Api\LojaFlex.Domain\obj\Debug\net6.0\LojaFlex.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\LojaFlex\LojaFlex-API\LojaFlex.Api\LojaFlex.Domain\obj\Debug\net6.0\LojaFlex.Domain.dll
+C:\Projetos\LojaFlex\LojaFlex-API\LojaFlex.Api\LojaFlex.Domain\obj\Debug\net6.0\refint\LojaFlex.Domain.dll
+C:\Projetos\LojaFlex\LojaFlex-API\LojaFlex.Api\LojaFlex.Domain\obj\Debug\net6.0\LojaFlex.Domain.pdb
+C:\Projetos\LojaFlex\LojaFlex-API\LojaFlex.Api\LojaFlex.Domain\obj\Debug\net6.0\ref\LojaFlex.Domain.dll

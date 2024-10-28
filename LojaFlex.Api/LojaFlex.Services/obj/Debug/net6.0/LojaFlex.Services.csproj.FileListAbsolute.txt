@@ -1,0 +1,17 @@
+C:\Projetos\LojaFlex\LojaFlex-API\LojaFlex.Api\LojaFlex.Services\bin\Debug\net6.0\LojaFlex.Services.deps.json
+C:\Projetos\LojaFlex\LojaFlex-API\LojaFlex.Api\LojaFlex.Services\bin\Debug\net6.0\LojaFlex.Services.dll
+C:\Projetos\LojaFlex\LojaFlex-API\LojaFlex.Api\LojaFlex.Services\bin\Debug\net6.0\LojaFlex.Services.pdb
+C:\Projetos\LojaFlex\LojaFlex-API\LojaFlex.Api\LojaFlex.Services\bin\Debug\net6.0\LojaFlex.Domain.dll
+C:\Projetos\LojaFlex\LojaFlex-API\LojaFlex.Api\LojaFlex.Services\bin\Debug\net6.0\LojaFlex.Infra.dll
+C:\Projetos\LojaFlex\LojaFlex-API\LojaFlex.Api\LojaFlex.Services\bin\Debug\net6.0\LojaFlex.Domain.pdb
+C:\Projetos\LojaFlex\LojaFlex-API\LojaFlex.Api\LojaFlex.Services\bin\Debug\net6.0\LojaFlex.Infra.pdb
+C:\Projetos\LojaFlex\LojaFlex-API\LojaFlex.Api\LojaFlex.Services\obj\Debug\net6.0\LojaFlex.Services.csproj.AssemblyReference.cache
+C:\Projetos\LojaFlex\LojaFlex-API\LojaFlex.Api\LojaFlex.Services\obj\Debug\net6.0\LojaFlex.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\LojaFlex\LojaFlex-API\LojaFlex.Api\LojaFlex.Services\obj\Debug\net6.0\LojaFlex.Services.AssemblyInfoInputs.cache
+C:\Projetos\LojaFlex\LojaFlex-API\LojaFlex.Api\LojaFlex.Services\obj\Debug\net6.0\LojaFlex.Services.AssemblyInfo.cs
+C:\Projetos\LojaFlex\LojaFlex-API\LojaFlex.Api\LojaFlex.Services\obj\Debug\net6.0\LojaFlex.Services.csproj.CoreCompileInputs.cache
+C:\Projetos\LojaFlex\LojaFlex-API\LojaFlex.Api\LojaFlex.Services\obj\Debug\net6.0\LojaFlex.Services.csproj.CopyComplete
+C:\Projetos\LojaFlex\LojaFlex-API\LojaFlex.Api\LojaFlex.Services\obj\Debug\net6.0\LojaFlex.Services.dll
+C:\Projetos\LojaFlex\LojaFlex-API\LojaFlex.Api\LojaFlex.Services\obj\Debug\net6.0\refint\LojaFlex.Services.dll
+C:\Projetos\LojaFlex\LojaFlex-API\LojaFlex.Api\LojaFlex.Services\obj\Debug\net6.0\LojaFlex.Services.pdb
+C:\Projetos\LojaFlex\LojaFlex-API\LojaFlex.Api\LojaFlex.Services\obj\Debug\net6.0\ref\LojaFlex.Services.dll
