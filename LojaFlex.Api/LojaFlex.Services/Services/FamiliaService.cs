@@ -40,18 +40,20 @@ namespace LojaFlex.Services.Services
 
         public async Task<string> UpdateAsync(FamiliaDto familia)
         {
-            var assuntoExpcted = await _repository.GetByIdAsync(familia.IdFamilia);
+            var familiaExpcted = await _repository.GetByIdAsync(familia.IdFamilia);
 
-            if (assuntoExpcted != null)
+            if (familiaExpcted != null)
             {
-                _repository.Update(_mapper.Map<Familia>(familia));
+                familiaExpcted.DscFamilia = familia.DscFamilia;
+
+                _repository.Update(familiaExpcted);
                 await _repository.SaveAsync();
 
                 return "OK";
             }
             else
             {
-                return "Erro ao alterar a família! Não existe família associado ao código.";
+                return "Erro ao alterar a família! Não existe família associada ao código.";
             }
         }
 

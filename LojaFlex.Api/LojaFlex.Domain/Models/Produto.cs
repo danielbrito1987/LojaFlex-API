@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Text.Json.Serialization;
 using System.Threading.Tasks;
 
 namespace LojaFlex.Domain.Models
@@ -32,8 +33,13 @@ namespace LojaFlex.Domain.Models
         public int? QtdEstoque { get; set; }
         public int? StatusEstoque { get; set; }
 
+        [JsonIgnore]
         public virtual Pais Pais { get; set; }
+
+        [JsonIgnore]
         public virtual Especie Especie { get; set; }
+
+        [JsonIgnore]
         public virtual Familia Familia { get; set; }
     }
 }
