@@ -40,18 +40,20 @@ namespace LojaFlex.Services.Services
 
         public async Task<string> UpdateAsync(EspecieDto especie)
         {
-            var assuntoExpcted = await _repository.GetByIdAsync(especie.IdEspecie);
+            var especieExpcted = await _repository.GetByIdAsync(especie.IdEspecie);
 
-            if (assuntoExpcted != null)
+            if (especieExpcted != null)
             {
-                _repository.Update(_mapper.Map<Especie>(especie));
+                especieExpcted.DscEspecie = especie.DscEspecie;
+
+                _repository.Update(especieExpcted);
                 await _repository.SaveAsync();
 
                 return "OK";
             }
             else
             {
-                return "Erro ao alterar a espécie! Não existe espécie associado ao código.";
+                return "Erro ao alterar a espécie! Não existe espécie associada ao código.";
             }
         }
 
@@ -68,7 +70,7 @@ namespace LojaFlex.Services.Services
             }
             else
             {
-                return "Erro ao excluir a espécie! Não existe espécie associado ao código.";
+                return "Erro ao excluir a espécie! Não existe espécie associada ao código.";
             }
         }
     }
